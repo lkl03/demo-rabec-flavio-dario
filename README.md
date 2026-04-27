@@ -1,2 +1,7 @@
-# demo-rabec-flavio-dario
-Demo web para Rabec Flavio Darío — diseñada por eterlab.
+# Rabec Flavio Darío
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
